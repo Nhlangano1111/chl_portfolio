@@ -10,4 +10,4 @@ const SubHeroMain = () => {
   )
 }
 
-export default SubHeroMain
+export default SubHeroMain;
